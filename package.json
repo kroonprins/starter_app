@@ -1,9 +1,9 @@
 {
-  "version": "0.0.0",
-  "private": true,
-  "name": "test-node",
-  "description": "Doing some various tests with node.js",
-  "repository": "",
+  "version": "0.0.1",
+  "private": false,
+  "name": "starter_app",
+  "description": "Project template for quickly testing web developments with livereload using gulp",
+  "repository": "https://github.com/kroonprins/starter_app",
   "license": "",
   "devDependencies": {
     "bower": "^1.4.1",

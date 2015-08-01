@@ -1,10 +1,10 @@
 {
-  "name": "test-node",
-  "description": "Testing some node.js things",
+  "name": "starter_app",
+  "description": "Project template for quickly testing web developments with livereload using gulp",
   "version": "0.0.0",
-  "homepage": "",
+  "homepage": "https://github.com/kroonprins/starter_app",
   "license": "",
-  "private": true,
+  "private": false,
   "dependencies": {
     "bootstrap": "~3.3.5",
     "jquery": "~2.1.4"
