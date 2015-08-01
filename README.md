@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <body>
 <p>Project template for quickly testing web developments with livereload using gulp</p>
