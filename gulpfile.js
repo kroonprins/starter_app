@@ -6,7 +6,7 @@ var EXPRESS_PORT = 8081;
 gulp.task('watch', function() {
     var livereload = require('gulp-livereload');
     livereload.listen();
-    gulp.watch(['js/*.js', '*.html', 'css/*.css']).on('change', livereload.changed);
+    gulp.watch(['js/**', '*.html', 'css/**']).on('change', livereload.changed);
 });
 
 gulp.task('server', function() {
