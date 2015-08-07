@@ -1,6 +1,6 @@
 <html lang="en">
 <body>
-<p>Project template for quickly testing web developments with livereload using gulp</p>
+<p>Project template for quickly testing web developments with livereload using gulp without browser plugin</p>
 
 <p>Installation:</p>
 <p>$ git clone https://github.com/kroonprins/starter_app.git</p>
